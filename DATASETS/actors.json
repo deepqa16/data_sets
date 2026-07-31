@@ -1,0 +1,38 @@
+{
+  "country" : "US",
+  "version" : "0.6",
+  "Actors": [
+   {
+    "name" : "Tom Cruise",
+	"age"  : 56,
+	"Born_at" : "california,NY",
+	"Birthdate" : "July 3 , 1962",
+	"photo"  : "https://jsonformatter.org/img/tom-cruise.jpg",
+	"wife"  : null,
+	"weight"  : 78,
+	"hasChildren"  : true,
+	"hasgreyhair" : false,
+	"picture" : {
+	  "large" : "https://randomuser.me/api/men/78.jpg",
+	  "medium" : "https://randomuser.me/api/men/78.jpg",
+	  "thumpnail" : "https://randomuser.me/api/men/78.jpg"
+	  }
+	},
+	{
+	"name" : "Alexander Dru",
+    "age"  : 65,
+	"Born_at" : "New Jersey, NY",
+	"Birthdate" : "December 3 , 1968",
+	"photo"  : "https://jsonformatter.org/img/tom-cruise.jpg",
+	"wife"  : null,
+	"weight"  : 70,
+	"hasChildren"  : true,
+	"hasgreyhair" : false,
+	"picture" : {
+	  "large" : "https://randomuser.me/api/men/78.jpg",
+	  "medium" : "https://randomuser.me/api/men/78.jpg",
+	  "thumpnail" : "https://randomuser.me/api/men/78.jpg"
+	  }
+	 }
+	 ]
+}

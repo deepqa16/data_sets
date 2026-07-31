@@ -1,0 +1,162 @@
+[
+  {
+    "customer_id": 101,
+    "first_name": "Amit",
+    "last_name": "Sharma",
+    "email": "amit.sharma@gmail.com",
+    "city": "Delhi",
+    "country": "India"
+  },
+  {
+    "customer_id": 102,
+    "first_name": "Neha",
+    "last_name": "Verma",
+    "email": "neha.verma@gmail.com",
+    "city": "Mumbai",
+    "country": "India"
+  },
+  {
+    "customer_id": 103,
+    "first_name": "Rahul",
+    "last_name": "Singh",
+    "email": "rahul.singh@gmail.com",
+    "city": "Pune",
+    "country": "India"
+  },
+  {
+    "customer_id": 104,
+    "first_name": "Priya",
+    "last_name": "Patel",
+    "email": "priya.patel@gmail.com",
+    "city": "Ahmedabad",
+    "country": "India"
+  },
+  {
+    "customer_id": 105,
+    "first_name": "Suresh",
+    "last_name": "Kumar",
+    "email": "suresh.kumar@gmail.com",
+    "city": "Chennai",
+    "country": "India"
+  },
+  {
+    "customer_id": 106,
+    "first_name": "Anjali",
+    "last_name": "Mehta",
+    "email": "anjali.mehta@gmail.com",
+    "city": "Jaipur",
+    "country": "India"
+  },
+  {
+    "customer_id": 107,
+    "first_name": "Vikas",
+    "last_name": "Gupta",
+    "email": "vikas.gupta@gmail.com",
+    "city": "Noida",
+    "country": "India"
+  },
+  {
+    "customer_id": 108,
+    "first_name": "Kavita",
+    "last_name": "Joshi",
+    "email": "kavita.joshi@gmail.com",
+    "city": "Dehradun",
+    "country": "India"
+  },
+  {
+    "customer_id": 109,
+    "first_name": "Rohit",
+    "last_name": "Agarwal",
+    "email": "rohit.agarwal@gmail.com",
+    "city": "Kolkata",
+    "country": "India"
+  },
+  {
+    "customer_id": 110,
+    "first_name": "Pooja",
+    "last_name": "Nair",
+    "email": "pooja.nair@gmail.com",
+    "city": "Kochi",
+    "country": "India"
+  },
+  {
+    "customer_id": 111,
+    "first_name": "Arjun",
+    "last_name": "Iyer",
+    "email": "arjun.iyer@gmail.com",
+    "city": "Bengaluru",
+    "country": "India"
+  },
+  {
+    "customer_id": 112,
+    "first_name": "Sneha",
+    "last_name": "Kulkarni",
+    "email": "sneha.kulkarni@gmail.com",
+    "city": "Nagpur",
+    "country": "India"
+  },
+  {
+    "customer_id": 113,
+    "first_name": "Manoj",
+    "last_name": "Mishra",
+    "email": "manoj.mishra@gmail.com",
+    "city": "Bhopal",
+    "country": "India"
+  },
+  {
+    "customer_id": 114,
+    "first_name": "Ritu",
+    "last_name": "Chopra",
+    "email": "ritu.chopra@gmail.com",
+    "city": "Chandigarh",
+    "country": "India"
+  },
+  {
+    "customer_id": 115,
+    "first_name": "Nitin",
+    "last_name": "Malhotra",
+    "email": "nitin.malhotra@gmail.com",
+    "city": "Ludhiana",
+    "country": "India"
+  },
+  {
+    "customer_id": 116,
+    "first_name": "Swati",
+    "last_name": "Bansal",
+    "email": "swati.bansal@gmail.com",
+    "city": "Meerut",
+    "country": "India"
+  },
+  {
+    "customer_id": 117,
+    "first_name": "Karan",
+    "last_name": "Arora",
+    "email": "karan.arora@gmail.com",
+    "city": "Gurgaon",
+    "country": "India"
+  },
+  {
+    "customer_id": 118,
+    "first_name": "Deepa",
+    "last_name": "Reddy",
+    "email": "deepa.reddy@gmail.com",
+    "city": "Hyderabad",
+    "country": "India"
+  },
+  {
+    "customer_id": 119,
+    "first_name": "Sanjay",
+    "last_name": "Thakur",
+    "email": "sanjay.thakur@gmail.com",
+    "city": "Shimla",
+    "country": "India"
+  },
+  {
+    "customer_id": 120,
+    "first_name": "Meena",
+    "last_name": "Das",
+    "email": "meena.das@gmail.com",
+    "city": "Guwahati",
+    "country": "India"
+  }
+]
